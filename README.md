@@ -1,4 +1,4 @@
-# Myapp
+# Test Google-ovog Project IDX u razvoju web app pomoću Angulara
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.7.
 
